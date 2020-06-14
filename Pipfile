@@ -9,6 +9,7 @@ verify_ssl = true
 flask = "*"
 gitpython = "*"
 requests = "*"
+dash = "*"
 
 [requires]
 python_version = "3.7"
